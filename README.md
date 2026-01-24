@@ -51,6 +51,17 @@ I am a Data Analyst with a strong background in statistics, machine learning, an
 - Interactive dashboards for decision support
 
 **Tools:** SQL, Python, Tableau / Power BI / Streamlit
+### 🔹 4. GDP Analytics Dashboard (Streamlit)
+**Objective:** Explore and compare GDP trends across countries using public World Bank data.
+
+**Features:**
+- Interactive year-range selection (1960–2022)
+- Multi-country comparison
+- Dynamic visualizations
+- Handles missing data in time-series
+
+**Tools:** Python, pandas, Streamlit  
+**Live App:** https://dashboard-x5qstsjcxqejxoa8nlmt3m.streamlit.app
 
 ---
 
