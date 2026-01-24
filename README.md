@@ -72,5 +72,6 @@ I am a Data Analyst with a strong background in statistics, machine learning, an
 ## 📫 Contact
 📧 mdinga03@gmail.com  
 📞 405-845-8002
+
 dasboard_Chrome.jpg
 
