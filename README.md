@@ -1,11 +1,21 @@
 # Marcel Dinga — Data Analytics Portfolio
 
-## 👤 About Me
-I am a Data Analyst with a strong background in statistics, machine learning, and financial analytics. I specialize in building predictive models, dashboards, and **production-deployed analytics systems** that support data-driven decision-making, risk assessment, and operational transparency.
+Data Analyst specializing in **machine learning, financial analytics, and cloud-deployed data applications**.
 
-📍 United States  
-📧 Email: mdinga03@gmail.com  
-📞 Phone: 405-845-8002  
+I build **predictive models, interactive dashboards, and production analytics systems** that help organizations make data-driven decisions.
+
+Key strengths:
+• Machine Learning & Predictive Modeling
+• Financial Risk Analytics
+• SQL & Data Engineering
+• Dashboard Development
+• Cloud-Deployed Data Applications
+
+🎓 Master’s in Data Analytics — University of Maryland Global Campus  
+📍 United States
+
+📧 mdinga03@gmail.com  
+📞 405-845-8002  
 
 ---
 
